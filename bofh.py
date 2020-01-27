@@ -5,7 +5,7 @@ from errbot import BotPlugin, botcmd
 class Bofh(BotPlugin):
 
     @botcmd  # flags a command
-    def bofh(self, msg, args):  # a command callable with !mittag
+    def bofh(self, msg, args):
         """
         print random BOFH quote
         """
