@@ -1,3 +1,5 @@
+Generate random BOFH themed technical excuses
+
 # prerequisites
 * basic [Errbot](https://github.com/errbotio/errbot) installation
 
