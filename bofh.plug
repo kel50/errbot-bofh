@@ -1,0 +1,9 @@
+[Core]
+Name = bofh
+Module = bofh
+
+[Documentation]
+Description = Generate random BOFH themed technical excuses
+
+[Python]
+Version = 2+
